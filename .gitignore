@@ -8,6 +8,9 @@ node_modules/*
 *.log
 npm-debug.log*
 
+# Optional npm cache directory
+.npm
+
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
 
