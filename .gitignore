@@ -1,9 +1,6 @@
 # dependences
 node_modules/*
 
-# files
-*.json
-
 # Logs
 *.log
 npm-debug.log*
