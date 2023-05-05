@@ -16,8 +16,8 @@ Content-Type: application/json
 
 {
 "type": "MESSAGE",
-"message": { "text": "Toto",
+"message": { "text": "Hello",
 "sender": { "displayName": "Michel"}},
-"space": { "espace": " "}
+"space": { "displayName": "some room"}
 }
 
